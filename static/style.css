@@ -1,7 +1,8 @@
 h1 {
     color: blue; 
     position: absolute;
-    left: 100px;
-    top: 150px;	
-	background-color: #ccccc;
+    left: 200px;
+    top: 350px;	
+	font: 45px arial, sans-serif;
+	background-color: #cccccc;
 }
