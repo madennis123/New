@@ -3,7 +3,7 @@ application = Flask(__name__)
 
 @application.route("/")
 def index():
-    return "<h1> This is the Home Page for Web-app2 </h1>"
+    return "<h1> This is the Home Page for Web-app3 </h1>"
 
 @application.route("/profile/<name>")
 def profile(name):
