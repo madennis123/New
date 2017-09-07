@@ -1,3 +1,9 @@
 h1 {
-    color: deepskyblue; 	
+    color: blue; 
+    position: absolute;
+    left: 100px;
+    top: 150px;	
+}
+body {
+    background-color: #ccccc;
 }
